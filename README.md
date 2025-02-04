@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm Ahaan Singh! 👋
 
-<!--
-**ahaan0502/ahaan0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a sophomore at the University of Massachusetts: Amherst pursuing a degree in Computer Science with a passion for coding, problem-solving, and learning new technologies. I enjoy exploring different programming languages, working on projects, and contributing to open-source communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+Languages: Python, Java, C, JavaScript, TypeScript
+
+Web Development: HTML, CSS, Tailwind, React, Node.js, Next.js, Express
+
+Databases: MySQL, MongoDB
+
+Tools & Technologies: Git, GitHub, VS Code, Docker, Figma, Tkinter
+
+Other Interests: AI/ML
+
+### 🌱 Currently Learning
+
+Discrete and Computer Systems
+
+Diving deeper into Machine Learning
+
+### 📌 Projects
+
+Here are some of my favorite projects:
+
+[UHitch](https://github.com/ahaan0502/UHitch) - Originally a Hackathon project, this full stack (MERN) website allows for students to organize rideshares to and from campus!
+
+[Suburbia Films Website](https://github.com/ahaan0502/Suburbia-Films-Website) - A front-end website for Suburbia Films, showcasing what I've learned with CSS, Tailwind, and other tools!
+
+[Chess Game](https://github.com/ahaan0502/Chess-Game) - A chess game built using Python, Tkinter, and MySQL to be played locally with a friend or against the computer!
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/ahaan-singh-39248622b)
+
+[Email](mailto:ahaan_singh@hotmail.com)
