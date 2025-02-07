@@ -12,7 +12,7 @@ I'm a sophomore at the University of Massachusetts: Amherst pursuing a degree in
 
 * **Databases**: MySQL, MongoDB
 
-* **Tools & Technologies**: Git, GitHub, VS Code, Docker, Figma, Tkinter
+* **Tools & Technologies**: Git, GitHub, VS Code, Docker, Figma, Tkinter, LaTeX, Overleaf
 
 * **Other Interests**: AI/ML
 
