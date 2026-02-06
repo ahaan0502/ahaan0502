@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a sophomore at the University of Massachusetts: Amherst pursuing a degree in Computer Science with a passion for coding, problem-solving, and learning new technologies. I enjoy exploring different programming languages, working on projects, and contributing to open-source communities.
+I'm a sophomore at the University of Massachusetts: Amherst pursuing a degree in Computer Science with a passion for coding, problem-solving, and learning new technologies. I enjoy exploring different programming languages and working on projects.
 
 ### 💻 Tech Stack
 
